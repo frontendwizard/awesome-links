@@ -16,12 +16,13 @@
 
 ## Icon Fonts
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
-- [Material Icons](https://design.google.com/icons/)
 - [Fontello](http://fontello.com/)
+- [Material Icons](https://design.google.com/icons/)
 
 ## Inspiration
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
+- [LittleSnippets](http://littlesnippets.net/) - A free collection of HTML/CSS3 snippets with new entries every day.
 
 ## Medium Posts
 - [200+ Best Free Tools & Resources for Front-End Web Developers](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.bz4uaonfz)
