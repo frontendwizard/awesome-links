@@ -28,6 +28,7 @@
 
 ## Moocs
 - [FreeCodeCamp](http://www.freecodecamp.com/)
+- [HackDesign](https://hackdesign.org/)
 
 ## Other awesomeness
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
