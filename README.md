@@ -4,6 +4,7 @@
 
 ## Table of contents
 - [Freebies](#freebies)
+- [Icon Fonts](#icon-fonts)
 - [Inspiration](#inspiration)
 - [Medium Posts](#medium-posts)
 - [Moocs](#moocs)
@@ -12,6 +13,11 @@
 ## Freebies
 - [All IT ebooks](http://www.allitebooks.com/)
 - [Freepik](http://www.freepik.com/)
+
+## Icon Fonts
+- [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
+- [Material Icons](https://design.google.com/icons/)
+- [Fontello](http://fontello.com/)
 
 ## Inspiration
 - [Behance](https://www.behance.net/)
