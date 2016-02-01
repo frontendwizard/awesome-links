@@ -3,10 +3,14 @@
 > A list of all the awesomeness I find out there :)
 
 ## Table of contents
+- [Freebies](#freebies)
 - [Inspiration](#inspiration)
 - [Medium Posts](#medium-posts)
 - [Moocs](#moocs)
 - [Other awesomeness](#other-awesomeness)
+
+## Freebies
+- [All IT ebooks](http://www.allitebooks.com/)
 
 ## Inspiration
 - [Behance](https://www.behance.net/)
