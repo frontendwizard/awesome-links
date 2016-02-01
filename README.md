@@ -56,6 +56,7 @@
 - [Open Source Society](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 - [Projects List](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 - [ReactJS](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [SurviveJS](https://github.com/survivejs/webpack_react) - A book about React and Webpack.
 - [Typebase.css](http://devinhunt.github.io/typebase.css/) - Typebase.css is a minimal, customizable typography stylesheet.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript.
 
