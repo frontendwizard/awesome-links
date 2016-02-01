@@ -3,6 +3,7 @@
 > A list of all the awesomeness I find out there :)
 
 ## Table of contents
+- [Developer Tools](#developer-tools)
 - [Freebies](#freebies)
 - [Icon Fonts](#icon-fonts)
 - [Inspiration](#inspiration)
@@ -10,6 +11,9 @@
 - [Moocs](#moocs)
 - [Typography](#typography)
 - [Other awesomeness](#other-awesomeness)
+
+## Developer Tools
+- [Gulp](http://gulpjs.com/) - Automate and enhance your workflow
 
 ## Freebies
 - [All IT ebooks](http://www.allitebooks.com/) - Free IT ebooks. New books almost every day.
@@ -38,4 +42,5 @@
 - [Type Genius](http://www.typegenius.com/) - Find the perfect font combo for your next project.
 
 ## Other awesomeness
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
+- [List of Awesomeness](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
+- [awesome-gulp](https://github.com/alferov/awesome-gulp) - A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation
