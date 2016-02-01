@@ -1,6 +1,6 @@
 # Awesome links [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/julianorafael/awesomeness)
 
-> A list of all the awesome pages I find out there :)
+> A list of all the awesome pages I find out there on the subject of web development :)
 
 ## Table of contents
 - [Developer Tools](#developer-tools)
