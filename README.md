@@ -49,7 +49,7 @@
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
 - [Eloquent Javascript](https://github.com/marijnh/Eloquent-JavaScript) - The second edition of Eloquent JavaScript.
 - [Foundation Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+- [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The [FreeCodeCamp.com](http://FreeCodeCamp.com) open source codebase and curriculum. Learn to code and help nonprofits.
 - [Google Fonts](https://github.com/google/fonts) - Font files available from Google Fonts.
 - [Grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
 - [Milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
