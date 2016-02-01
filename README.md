@@ -8,6 +8,7 @@
 - [Inspiration](#inspiration)
 - [Medium Posts](#medium-posts)
 - [Moocs](#moocs)
+- [Typography](#typography)
 - [Other awesomeness](#other-awesomeness)
 
 ## Freebies
@@ -32,6 +33,9 @@
 ## Moocs
 - [FreeCodeCamp](http://www.freecodecamp.com/) - Best coding community ever.
 - [HackDesign](https://hackdesign.org/) - An easy to follow design course for people who do amazing things.
+
+## Typography
+- [Type Genius](http://www.typegenius.com/) - Find the perfect font combo for your next project.
 
 ## Other awesomeness
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
