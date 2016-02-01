@@ -11,6 +11,7 @@
 
 ## Freebies
 - [All IT ebooks](http://www.allitebooks.com/)
+- [Freepik](http://www.freepik.com/)
 
 ## Inspiration
 - [Behance](https://www.behance.net/)
