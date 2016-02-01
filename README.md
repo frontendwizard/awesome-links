@@ -13,15 +13,17 @@
 - [Other awesomeness](#other-awesomeness)
 
 ## Developer Tools
-- [Gulp](http://gulpjs.com/) - Automate and enhance your workflow
+- [Bower](http://bower.io/) - Front-end package manager.
+- [Gulp](http://gulpjs.com/) - Workflow automation.
+- [Yeoman](http://yeoman.io/) - A generator ecosystem.
 
 ## Freebies
 - [All IT ebooks](http://www.allitebooks.com/) - Free IT ebooks. New books almost every day.
 - [Freepik](http://www.freepik.com/) - Free vectors, photos and PSDs downloads.
 
 ## Icon Fonts
-- [FontAwesome](https://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit
-- [Fontello](http://fontello.com/) - Icon font generator
+- [FontAwesome](https://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit.
+- [Fontello](http://fontello.com/) - Icon font generator.
 - [Material Icons](https://design.google.com/icons/) - Google Material Icons font for every device.
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather icons fonts with mapping for various APIs.
 
