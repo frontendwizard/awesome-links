@@ -16,6 +16,7 @@
 ## Developer Tools
 - [Bower](http://bower.io/) - Front-end package manager.
 - [Gulp](http://gulpjs.com/) - Workflow automation.
+- [Lorem Flickr](http://loremflickr.com/) - Random placeholder images on any desired subject.
 - [Yeoman](http://yeoman.io/) - A generator ecosystem.
 
 ## Freebies
