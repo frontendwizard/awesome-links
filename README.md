@@ -68,3 +68,4 @@
 ## Other awesomeness
 - [List of Awesomeness](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
 - [awesome-gulp](https://github.com/alferov/awesome-gulp) - A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - A list of public data sources.
