@@ -53,6 +53,7 @@
 - [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The [FreeCodeCamp.com](http://FreeCodeCamp.com) open source codebase and curriculum. Learn to code and help nonprofits.
 - [Google Fonts](https://github.com/google/fonts) - Font files available from Google Fonts.
 - [Grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [HackMyResume](https://github.com/hacksalot/HackMyResume) - Create polished résumés and CVs in multiple formats from your command line or shell.
 - [JS Tips](https://github.com/loverajoel/jstips) - This is about one JS tip every day!
 - [Milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [Open Source Society](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
