@@ -11,6 +11,7 @@
 - [Moocs](#moocs)
 - [Open Source Projects to Watch](#open-source-projects-to-watch)
 - [Typography](#typography)
+- [Useful Tips](#useful-tips)
 - [Other awesomeness](#other-awesomeness)
 
 ## Developer Tools
@@ -66,6 +67,9 @@
 
 ## Typography
 - [Type Genius](http://www.typegenius.com/) - Find the perfect font combo for your next project.
+
+## Useful Tips
+- [Syncing a GitHub Fork](http://www.sitepoint.com/quick-tip-synch-a-github-fork-via-the-command-line/) - Sync a GitHub Fork via the Command Line
 
 ## Other awesomeness
 - [List of Awesomeness](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
