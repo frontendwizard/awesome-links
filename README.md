@@ -70,6 +70,7 @@
 
 ## Useful Tips
 - [Syncing a GitHub Fork](http://www.sitepoint.com/quick-tip-synch-a-github-fork-via-the-command-line/) - Sync a GitHub Fork via the Command Line
+- [Maintainable Responsive Web Design with Sass](callmenick.com/post/maintainable-responsive-web-design-with-sass)
 
 ## Other awesomeness
 - [List of Awesomeness](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
