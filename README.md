@@ -37,7 +37,6 @@
 - [LittleSnippets](http://littlesnippets.net/) - A free collection of HTML/CSS3 snippets with new entries every day.
 
 ## Medium Posts
-- [200+ Best Free Tools & Resources for Front-End Web Developers](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.bz4uaonfz)
 - [Eric Elliot - Learn Javascript](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.yp7y1oxnl) - Learn JavaScript Essentials (for all skill levels)
 - [Want to learn JavaScript in 2015 / 2016?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.i13ignqlk)
 
@@ -73,6 +72,8 @@
 - [Maintainable Responsive Web Design with Sass](callmenick.com/post/maintainable-responsive-web-design-with-sass)
 
 ## Other awesomeness
-- [List of Awesomeness](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
+- [200+ Best Free Tools & Resources for Front-End Web Developers](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.bz4uaonfz)
 - [awesome-gulp](https://github.com/alferov/awesome-gulp) - A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - A list of public data sources.
+- [List of Awesomeness](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
+- [New Web Design and Development Resources - 14 January](http://www.onextrapixel.com/2016/02/12/new-web-design-and-development-resources-14-january-edition/)
